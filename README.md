@@ -3,7 +3,7 @@
 ![Images generated using GanBreeder](Lessons/Media/GanBreederWide128.png)
 *Images created using [GanBreeder](https://ganbreeder.app/)*
 
-This repository contains the lecture materials and examples for [Aalto University]()'s Intelligent Computational Media course, instructed by [Perttu Hämäläinen](http://perttu.info) and [Koray Tahiroglu](http://mlab.taik.fi/~korayt/).
+This repository contains the lecture materials and examples for [Aalto University]()'s Intelligent Computational Media course, instructed by [Perttu Hämäläinen](http://perttu.info) and [Koray Tahiroglu](https://sopi.aalto.fi).
 
 Check [MyCourses](https://mycourses.aalto.fi/course/search.php?search=intelligent+computational+media#menu4) to see when the course is run for the next time!
 
@@ -26,7 +26,7 @@ This is a crash course for deep learning and other AI techniques for people with
 * Basic programming skills (e.g., some  python, processing, or Unity C#)
 * Basic high-school math. We focus on visual explanations that are enough to understand why and how various AI methods work.
 
-The focus is on **media processing and games**, which makes this particularly suitable for **artists and designers**.
+The focus is on **media (image and audio) processing and games**, which makes this particularly suitable for **artists and designers**.
 
 NOTE: The visual pedagogy is heavily inspired by Bret Victor's [Kill Math Project](http://worrydream.com/KillMath/). Although advanced math is needed to prove things like the optimality of an algorithm, many AI methods are born out of visual intuitions. It is unfortunate that researchers must then encode these intuitions as math, which imposes on the reader the burden of decoding back to intuitions and understanding. Fortunately, this is slowly changing with new publication venues like [Distill](https://distill.pub/2017/momentum/).
 
