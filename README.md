@@ -3,7 +3,7 @@
 ![Images generated using GanBreeder](Lessons/Media/GanBreederWide128.png)
 *Images created using [GanBreeder](https://ganbreeder.app/)*
 
-This repository contains the lecture materials and examples for [Aalto University]()'s Intelligent Computational Media course, instructed by [Perttu Hämäläinen](http://perttu.info) and [Koray Tahiroglu](http://mlab.taik.fi/~korayt/).
+This repository contains the lecture materials and examples for [Aalto University]()'s Intelligent Computational Media course, instructed by [Perttu Hämäläinen](http://perttu.info) and [Koray Tahiroğlu](http://mlab.taik.fi/~korayt/).
 
 Check [MyCourses](https://mycourses.aalto.fi/course/search.php?search=intelligent+computational+media#menu4) to see when the course is run for the next time!
 
